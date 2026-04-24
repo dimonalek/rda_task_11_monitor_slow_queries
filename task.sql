@@ -132,3 +132,6 @@ INSERT INTO Products1 (Name)
 	VALUES ('AwersomeProduct59'); 
 INSERT INTO Products1 (Name)
 	VALUES ('AwersomeProduct60'); 
+
+
+--products2 db is slow and was deleted from the task as intended
